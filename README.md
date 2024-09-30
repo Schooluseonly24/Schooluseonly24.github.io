@@ -8,5 +8,5 @@ downloaded Github onto desktop, opened program, I was already logged in. Clicked
 ## My Interests
 I enjoy reading, baking, history, playing with my cats. Travelling and seeing new places. Puzzles and being creative.
 ## Websites I Recommend
-    -[Nytimes] https://www.nytimes.com/section/books/review This site is great to find new books to read.
-    - [Pbs] https://www.pbs.org/ I enjoy all of their shows.
+- [Nytimes] https://www.nytimes.com/section/books/review This site is great to find new books to read.
+- [Pbs] https://www.pbs.org/ I enjoy all of their shows.
